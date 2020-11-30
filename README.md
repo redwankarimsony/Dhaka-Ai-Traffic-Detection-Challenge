@@ -1,4 +1,4 @@
-![](https://dhaka-ai.com/static/images/logo.png)
+![](dhaka_ai_cover.png)
 
 # Why this new
 # AI-Based Dhaka Traffic Detection Challenge?
